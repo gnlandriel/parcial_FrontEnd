@@ -1,0 +1,12 @@
+.form{
+    display: flex;
+    
+}
+
+.input {
+    border: 2px solid white;
+    border-radius: 1rem;
+    text-align: center;
+    background-color: black;
+    
+}
